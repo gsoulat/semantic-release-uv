@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0-rc.3 (2025-10-21)
+
+### Features
+
+- Python code test
+  ([`9076d23`](https://github.com/gsoulat/semantic-release-uv/commit/9076d23346d46d9ba68308d3602c33a1b726f20c))
+
+
 ## v2.0.0-rc.2 (2025-10-19)
 
 ### Features
