@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0-rc.5 (2025-10-30)
+
+### Features
+
+- Add terraformBREAKING CHANGE : new version
+  ([`c68ca04`](https://github.com/gsoulat/semantic-release-uv/commit/c68ca04c70aadd943a21ba809cbd778c49d0229d))
+
+
 ## v2.0.0-rc.4 (2025-10-30)
 
 ### Features
