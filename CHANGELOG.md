@@ -2,6 +2,18 @@
 
 <!-- version list -->
 
+## v2.0.0-rc.6 (2025-10-30)
+
+### Features
+
+- Nouvelle ─╯
+  ([`18615cc`](https://github.com/gsoulat/semantic-release-uv/commit/18615cc54ab87d7dc0557a7f28181fe3d9a05c53))
+
+### Breaking Changes
+
+- Cette modification casse la compatibilité
+
+
 ## v2.0.0-rc.5 (2025-10-30)
 
 ### Features
