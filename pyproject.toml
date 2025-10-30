@@ -9,7 +9,7 @@ name = "semantic-release"
 # Version actuelle du package - ATTENTION: Cette valeur est automatiquement
 # mise à jour par semantic-release lors d'un release. Ne la modifiez pas manuellement.
 
-version = "2.0.0-rc.2"
+version = "2.0.0-rc.6"
 
 # Description courte qui apparaît dans les métadonnées du package
 description = "Semantic release for Python packages"
@@ -24,6 +24,7 @@ requires-python = ">=3.13"
 # Liste des dépendances nécessaires au fonctionnement du package
 # Format: "nom-package>=version-minimale"
 dependencies = [
+    "dlt>=1.17.1",
     "pandas>=2.3.3",
 ]
 

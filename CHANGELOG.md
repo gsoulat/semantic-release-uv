@@ -2,6 +2,42 @@
 
 <!-- version list -->
 
+## v2.0.0-rc.6 (2025-10-30)
+
+### Features
+
+- Nouvelle ─╯
+  ([`18615cc`](https://github.com/gsoulat/semantic-release-uv/commit/18615cc54ab87d7dc0557a7f28181fe3d9a05c53))
+
+### Breaking Changes
+
+- Cette modification casse la compatibilité
+
+
+## v2.0.0-rc.5 (2025-10-30)
+
+### Features
+
+- Add terraformBREAKING CHANGE : new version
+  ([`c68ca04`](https://github.com/gsoulat/semantic-release-uv/commit/c68ca04c70aadd943a21ba809cbd778c49d0229d))
+
+
+## v2.0.0-rc.4 (2025-10-30)
+
+### Features
+
+- Add terraformBREAKING CHANGE : new version
+  ([`85f5065`](https://github.com/gsoulat/semantic-release-uv/commit/85f5065fb8490fa4168511e772fe2124538c3e97))
+
+
+## v2.0.0-rc.3 (2025-10-21)
+
+### Features
+
+- Python code test
+  ([`9076d23`](https://github.com/gsoulat/semantic-release-uv/commit/9076d23346d46d9ba68308d3602c33a1b726f20c))
+
+
 ## v2.0.0-rc.2 (2025-10-19)
 
 ### Features
